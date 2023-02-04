@@ -1,19 +1,24 @@
-### Hi there 👋
+## Welcome to my GitHub Profile! 👋
 
-###### I am currently working on what to put here...
-###### Stay tuned!
+### About me
+Hi, I'm David. Thanks for coming by! I am a 17yo student and a developer in JavaScript / TypeScript and Python3. If you want to see / try out some of my projects, just have a look at some of my repos!
 
-<!--
-**Davis-Software/Davis-Software** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can also find my projects on [my projects page](https://projects.software-city.org)!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to reach me
+I have a [website](https://pages.software-city.org/d) where you can find my contact information.
+
+### What I do
+* I am currently working as a junior software developer for a company in Germany. 
+* I am also a student at a local Gymnasium with my major courses being English, Physics, and Computer Science.
+* I am also a member of the [Software City](https://software-city.org) organization, where I am working on a few projects.
+
+### What I am working on
+* In my free time I work on a few projects, some of which you can find on my [projects page](https://projects.software-city.org).
+* I am also working on a few other projects, which I will publish on GitHub soon.
+
+---
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Davis-Software&show_icons=true&theme=dark)
+![SWC logo](./.github/img/swc_logo_rev2_0_alpha_loading_normal.gif)
