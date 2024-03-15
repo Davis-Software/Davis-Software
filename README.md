@@ -1,7 +1,7 @@
 ## Welcome to my GitHub Profile! 👋
 
 ### About me
-Hi, I'm David. Thanks for coming by! I am a 18yo student and a developer in JavaScript / TypeScript and Python3. If you want to see / try out some of my projects, just have a look at some of my repos!
+Hi, I'm David. Thanks for coming by! I am a 19yo student and a developer in JavaScript / TypeScript and Python3. If you want to see / try out some of my projects, just have a look at some of my repos!
 
 You can also find my projects on [my projects page](https://projects.software-city.org)!
 
