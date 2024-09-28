@@ -11,7 +11,7 @@ I have a [website](https://pages.software-city.org/d) where you can find my cont
 
 ### What I do
 * I am currently working as a junior software developer for a company in Germany. 
-* I am also a student at a local Gymnasium with my major courses being English, Physics, and Computer Science.
+* I am also a Computer Science student at the Trier University of Applied Sciences.
 * I am also a member of the [Software City](https://software-city.org) organization, where I am working on a few projects.
 
 ### What I am working on
