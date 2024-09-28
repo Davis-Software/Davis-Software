@@ -18,7 +18,7 @@ I have a [website](https://pages.software-city.org/d) where you can find my cont
 * In my free time I work on a few projects, some of which you can find on my [projects page](https://projects.software-city.org).
 * I am also working on a few other projects, which I will publish on GitHub soon.
 
----
+<!-----
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Davis-Software&show_icons=true&theme=dark)
-![SWC logo](./.github/img/swc_logo_rev2_0_alpha_loading_normal.gif)
+![SWC logo](./.github/img/swc_logo_rev2_0_alpha_loading_normal.gif)-->
